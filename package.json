@@ -1,12 +1,12 @@
 {
-    "description": "topu-sessions",
-    "main": "./toputech.js",
+    "description": "fredi-sessions",
+    "main": "./fredi.js",
   "engines" : { 
     "npm" : ">=9.7.2",
     "node" : ">=20.0.0"
     },
     "scripts": {
-    "start": "node toputech.js"
+    "start": "node fredi.js"
   },
   "author": "Topu Tech",
   "license": "GPL-3.0 license",
